@@ -2,7 +2,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krithika117&theme=gotham)](https://git.io/streak-stats)
  <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krithika117&theme=gotham&show_icons=true)
+ <br />
+![Krithika's Stats](https://github-readme-stats.vercel.app/api?username=krithika117&theme=gotham&show_icons=true)
+ <br />
  <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krithika117&theme=gotham)
 
