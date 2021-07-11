@@ -1,9 +1,10 @@
 ### Hello World :)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krithika117&theme=gotham)](https://git.io/streak-stats)
-
+ <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krithika117&theme=gotham&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=gotham)
+ <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krithika117&theme=gotham)
 
 
 <!--
