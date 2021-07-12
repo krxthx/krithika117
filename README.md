@@ -1,7 +1,10 @@
-### Hello World :)
+Hello World :) This is Krithika here. 
 
-[![Krithika's github activity graph](https://activity-graph.herokuapp.com/graph?username=krithika117&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align='center'><i>Activity Graph 📈</i></h2>
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=krithika117&theme=react-dark&area=true&hide_border=true" width="100%">
 
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krithika117&theme=gotham)](https://git.io/streak-stats)
  <br />
