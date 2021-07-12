@@ -1,6 +1,6 @@
-##Hello World :) This is Krithika here. 
+<h1>Hello World :) This is Krithika here. </h1>
 
-<h2 align='center'><i>Activity Graph 📈</i></h2>
+<h2 align='center'>Activity Graph 📈</h2>
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=krithika117&theme=react-dark&area=true&hide_border=true" width="100%">
 
