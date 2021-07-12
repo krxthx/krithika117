@@ -1,4 +1,4 @@
-###Hello World :) This is Krithika here. 
+##Hello World :) This is Krithika here. 
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <p align="center">
