@@ -1,18 +1,23 @@
-<h1>Hello World :) This is Krithika here. </h1>
-
-<h2 align='center'>Activity Graph 📈</h2>
+<h2>Hello World :) </h2>
+<br>
+<h2 align='center'>Activity Graph</h2>
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=krithika117&theme=react-dark&area=true&hide_border=true" width="100%">
-
+ <img src="https://activity-graph.herokuapp.com/graph?username=krithika117&theme=react-dark&area=true&hide_border=true" width="60%">
 </p>
+<br>
+<h2 align='center'>Streak Stats</h2>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=krithika117&theme=react&area=true&hide_border=true" width="60%">
+ </p>
+ <br>
+ 
+ <h2 align='center'>Streak Stats</h2>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=krithika117&theme=react&show_icons=true&area=true&hide_border=true" width="60%">
+ </p>
+ <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krithika117&theme=gotham)](https://git.io/streak-stats)
- <br />
- <br />
-![Krithika's Stats](https://github-readme-stats.vercel.app/api?username=krithika117&theme=gotham&show_icons=true)
- <br />
- <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krithika117&theme=gotham)
+
 
 
 <!--
