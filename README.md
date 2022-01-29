@@ -1,5 +1,10 @@
 <h2>Hello World :) </h2>
-<p>Currently enrolled in the Third year of Bachelors in Information Technology at Loyola-ICAM College of Engineering and Technology, Chennai. Looking for a great opportunity with a mid-large size firm where I can contribute towards upcoming technology innovations that impact the organization as well as broaden my scope of learning from the organization's team members. Good Communication and Management Skills which makes me able to work under extreme pressure within deadlines also helps me take up the responsibilities and complete them with confidence.
+<p>This is Krithika, a Coffee loving Chennaite and a Prefinal Undergrad<br>specializing in
+                        Information Technology at Loyola-ICAM College of Engineering and Technology (LICET),
+                        Nungambakkam.
+                        <br>My areas of Interest include Cloud computing,
+                        Graphic Design and Video editing.<br>
+                        Have a glimpse of my Resumé to know further about my academic stats.
 </p>
 <br>
 <h2 align='center'>Activity Graph</h2>
