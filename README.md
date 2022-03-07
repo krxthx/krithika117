@@ -1,5 +1,5 @@
 <h2>Hello World :) </h2>
-<p>This is Krithika, a Coffee loving Chennaite and a Prefinal Undergrad specializing in Information Technology at Loyola-ICAM College of Engineering and Technology (LICET), Nungambakkam. My areas of Interest include Web Development, Cloud computing, Graphic Design and Video editing. 
+<p>This is Krithika, a Coffee loving Chennaite and a Prefinal Undergrad specializing in Information Technology at Loyola-ICAM College of Engineering and Technology (LICET), Nungambakkam. My areas of Interest include Data Analysis, Cloud computing, Graphic Design and Video editing. 
 <br>
 <h2 align='center'>Activity Graph</h2>
 <p align="center">
