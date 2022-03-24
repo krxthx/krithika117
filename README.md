@@ -1,10 +1,10 @@
 <h2>Hello World :) </h2>
 <p>This is Krithika, a Coffee loving Chennaite and a Prefinal Undergrad specializing in Information Technology at Loyola-ICAM College of Engineering and Technology (LICET), Nungambakkam. My areas of Interest include Data Analysis, Cloud computing, Graphic Design and Video editing. 
 <br>
-<h2 align='center'>Activity Graph</h2>
+<!-- <h2 align='center'>Activity Graph</h2>
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=krithika117&theme=react-dark&area=true&hide_border=true" width="60%">
-</p>
+</p> -->
 <br>
 <h2 align='center'>Streak Stats</h2>
 <p align="center">
