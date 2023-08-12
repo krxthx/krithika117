@@ -5,6 +5,7 @@
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=krithika117&theme=react-dark&area=true&hide_border=true" width="60%">
 </p> -->
+<br>
 
   <img src="https://github.com/krithika117/krithika117/assets/76687631/03f00dbe-5998-44f0-a10d-a42d81c63cfd" width="20%">
   <img src="https://github.com/krithika117/krithika117/assets/76687631/8a9fb7de-4283-4442-82bc-06da26390f32" width="20%">
