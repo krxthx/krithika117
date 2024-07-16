@@ -1,5 +1,5 @@
 <h2>Hello World :) </h2>
-<p>This is Krithika, a Coffee loving Chennaite and an Associate Engineer Trainee at Presidio Solutions Pvt. Ltd. I did my B.Tech specializing in Information Technology at Loyola-ICAM College of Engineering and Technology (LICET), Nungambakkam. My areas of Interest include Data Analysis, Cloud computing, Graphic Design and Video editing. 
+<p>This is Krithika, a Coffee loving Chennaite and an Associate Engineer in Presidio, Chennai. Experience in Android using Jetpack Compose and cloud platforms like Azure and AWS. Proficient in full-stack development, including HTML, JavaScript, MERN, and LAMP stacks.
 <br>
 <!-- <h2 align='center'>Activity Graph</h2>
 <p align="center">
